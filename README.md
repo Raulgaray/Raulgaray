@@ -1,9 +1,9 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lennard+Idone!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raul+Garay!;" />
 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lesandrod&label=Profile%20views&color=0e75b6&style=flat" alt="lesandrod" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Raulgaray&label=Profile%20views&color=0e75b6&style=flat" alt="Raulgaray" /> </p>
 <h3 align="center">A passionate software developer from Peru 🇵🇪</h3>
 
 
@@ -13,19 +13,19 @@
  
  🌱 I’m currently learning **Astro**
 
-💬 Ask me about **Node.js, React, PHP... or anything [here](https://github.com/Lesandrod/Lesandrod/issues)**
+💬 Ask me about **Node.js, React, PHP... or anything [here](https://github.com/Raulgaray/Raulgaray/issues)**
 
 
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif"  />
+  <img height="300" src="https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966"  />
 </div>
  </div>
  <br/>
 <p align="center">
-<a href="https://linkedin.com/in/lennardidone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lennardidone" height="30" width="40" /></a>
-<a href="https://instagram.com/lesandrod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lesandrod" height="28" width="40" /></a>
-   <a href="mailto:lentrix12345@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="lesandrod"  />
+<a href="www.linkedin.com/in/raulgarayponce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raulgaray" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rauul.garay/?hl=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Raulgaray" height="28" width="40" /></a>
+   <a href="mailto:raulgp110203@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Raulgaray"  />
   </a>
 </p>
 
@@ -89,10 +89,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Lesandrod&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=370 src="https://github-readme-stats-salesp07.vercel.app/api?username=Lesandrod&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Raulgaray&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=370 src="https://github-readme-stats-salesp07.vercel.app/api?username=Raulgaray&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lesandrod&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Raulgaray&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   
 </div>
 
